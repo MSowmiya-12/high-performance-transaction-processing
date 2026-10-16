@@ -286,4 +286,3 @@ A short demonstration can show:
 4. The transaction moving to `completed`.
 5. Repeating the same idempotency key returning the same transaction.
 6. Reusing the key with different data returning `409 Conflict`.
-7. The automated test suite passing.
